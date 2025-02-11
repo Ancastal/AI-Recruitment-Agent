@@ -1,6 +1,6 @@
 # AI Recruitment Assistant
 
-An intelligent recruitment automation system powered by GPT-4 that helps streamline the candidate screening and interview process.
+A multi-agent recruitment assistant that leverages Microsoft AutoGen framework to streamline hiring processes. The system employs specialized AI agents working in concert to automate resume screening, candidate evaluation, and interview preparation.
 
 ## Overview
 
@@ -26,7 +26,7 @@ This application uses multiple AI agents to automate different aspects of the re
 
 - Python 3.x
 - AutoGen framework for multi-agent AI interactions
-- GPT-4 for natural language processing
+- GPT-4o-mini for natural language processing
 - spaCy for text processing
 - PDF handling: pdfplumber
 - DOCX handling: docx2txt
