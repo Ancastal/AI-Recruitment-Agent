@@ -1,4 +1,4 @@
-# AI Recruitment Assistant
+![image](https://github.com/user-attachments/assets/b5d0e57d-8189-4fbe-ab7a-e96948585d79)# AI Recruitment Assistant
 
 A multi-agent recruitment assistant that leverages Microsoft AutoGen framework to streamline hiring processes. The system employs specialized AI agents working in concert to automate resume screening, candidate evaluation, and interview preparation.
 
@@ -21,6 +21,7 @@ This application uses multiple AI agents to automate different aspects of the re
     - Data Management Agent: Saves candidate information and screening results to a structured CSV database
     - User Proxy Agent: Manages the overall flow of the application
     
+![image](https://github.com/user-attachments/assets/b5bed411-c34a-4e14-8c26-5e4a4906e50e)
 
 ## Technical Stack
 
