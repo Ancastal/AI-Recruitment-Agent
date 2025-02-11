@@ -2,6 +2,7 @@
 
 A multi-agent recruitment assistant that leverages Microsoft AutoGen framework to streamline hiring processes. The system employs specialized AI agents working in concert to automate resume screening, candidate evaluation, and interview preparation.
 
+
 ## Overview
 
 This application uses multiple AI agents to automate different aspects of the recruitment process:
