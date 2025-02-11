@@ -20,8 +20,6 @@ This application uses multiple AI agents to automate different aspects of the re
     - Data Management Agent: Saves candidate information and screening results to a structured CSV database
     - User Proxy Agent: Manages the overall flow of the application
     
-![image](https://github.com/user-attachments/assets/b5bed411-c34a-4e14-8c26-5e4a4906e50e)
-
 ## Technical Stack
 
 - Python 3.x
@@ -64,6 +62,8 @@ The application will:
 3. Use keyword matching for the initial screening
 4. Generate relevant interview questions, based on the identified skill gaps
 5. Output results to console and save to CSV `(assets/candidate_data.csv)`
+
+![image](https://github.com/user-attachments/assets/b5bed411-c34a-4e14-8c26-5e4a4906e50e)
 
 ## Project Structure
 
