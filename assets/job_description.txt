@@ -1,0 +1,40 @@
+Job Summary:
+We are seeking a highly skilled Assembly Developer to join our team. The ideal candidate will have expertise in low-level programming, performance optimization, and reverse engineering. You will be responsible for writing, debugging, and maintaining Assembly code, working closely with hardware and software teams to develop high-performance applications and embedded systems.
+
+Key Responsibilities:
+Develop, optimize, and maintain software in Assembly (x86, x86_64, ARM, RISC-V, or other architectures).
+Work with low-level system components, including bootloaders, device drivers, and firmware.
+Reverse engineer legacy software to enhance, optimize, or integrate with modern systems.
+Debug and profile Assembly code to ensure maximum performance and efficiency.
+Collaborate with C/C++ developers to create hybrid solutions where Assembly is required for performance-critical tasks.
+Analyze system memory, registers, and CPU pipelines to optimize execution speed.
+Work with embedded systems, microcontrollers, or BIOS/UEFI firmware when required.
+Develop security-related software, including cryptographic implementations and secure boot systems.
+Contribute to performance benchmarking and optimization strategies.
+Requirements:
+Technical Skills:
+Proficiency in Assembly language for at least one major architecture (x86, x86_64, ARM, RISC-V, etc.).
+Experience with C and C++ for integrating Assembly code with higher-level applications.
+Strong understanding of computer architecture, CPU pipelines, registers, stack management, and calling conventions.
+Experience with debugging tools like GDB, WinDbg, or IDA Pro.
+Familiarity with operating system internals (Linux, Windows, or embedded OS).
+Knowledge of SIMD (SSE, AVX, Neon) and vectorized computing is a plus.
+Experience with reverse engineering, binary analysis, and decompilation is a bonus.
+Soft Skills:
+Strong problem-solving and analytical skills.
+Ability to work independently and in a team.
+Excellent attention to detail and precision in coding.
+Passion for low-level programming and optimization.
+Preferred Qualifications:
+Bachelor's or Master's degree in Computer Science, Electrical Engineering, or a related field (or equivalent experience).
+Experience with firmware development, real-time operating systems (RTOS), or kernel-level programming.
+Prior experience in cybersecurity, malware analysis, or exploit development is a plus.
+Contributions to open-source Assembly projects or low-level programming communities.
+Experience with Git.
+Experience with Docker.
+Experience with Java.
+Experience with C#.
+Experience with Python.
+Experience with Assembly.
+Experience with C.
+Experience with C++.
