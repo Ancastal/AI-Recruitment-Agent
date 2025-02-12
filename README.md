@@ -75,4 +75,4 @@ The application will:
 ## Acknowledgments
 
 - Built with [AutoGen](https://github.com/microsoft/autogen)
-- Uses OpenAI's GPT-4 for natural language processing
+- Uses OpenAI's GPT-4o-mini for agent orchestration, text generation and function calling.
